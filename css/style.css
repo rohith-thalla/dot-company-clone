@@ -79,7 +79,10 @@ html {
   gap: 2rem;
   padding-right: 2rem;
 }
-
+.nav-right a {
+  color: #000;
+  display: inline-block;
+}
 /* welcome banner */
 .welcm-banner {
   background-color: #fc8988;
